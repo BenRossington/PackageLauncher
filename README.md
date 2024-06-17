@@ -1,7 +1,7 @@
 # Package Launcher
 
-Start any package as a launcher. (Defaults to `com.android.settings`.)
+Start klwp as a launcher. (Defaults to `com.android.settings`.)
 
 ## Getting Started
 
-Change the package name in [package.xml](app/src/main/res/values/package.xml), then build the app.
+I Changed the package name in [package.xml](app/src/main/res/values/package.xml) to org.kustom.wallpaper, now I need to build the app.
